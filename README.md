@@ -47,6 +47,8 @@ poetry install
 brew install chromedriver
 ```
 
+---
+
 ## **使用方法 📌**
 
 ### **1️⃣ 進入 Poetry 虛擬環境**
